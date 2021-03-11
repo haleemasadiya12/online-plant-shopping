@@ -1,0 +1,121 @@
+
+
+* {
+    box-sizing: border-box;
+	
+}
+
+body {
+    font-family: Arial;
+    padding: 10px;
+    
+}
+.btn {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background:green;
+	border: none;
+	border-radius: 5px;
+}
+.btn2{
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background:red;
+	border: none;
+	border-radius: 5px;
+}
+
+
+
+.header {
+    padding: 30px;
+    text-align: left;
+	line-height:10px;
+   
+	font-family:
+Lucida Handwriting;
+color:orange;
+}
+
+.header h1 {
+    font-size: 50px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+aside{
+	width:50%;
+	height:450px;
+	float:left;
+	background:url(l9.jpeg) no-repeat;
+ 
+	
+}
+section{
+	width:49%;
+	height:450px;
+    border-width:5px;
+	border-style:solid;
+
+   
+	
+}
+
+.limg{
+	text-align:center;
+}
+form{
+	text-align:center;
+	
+}
+.regi{
+	text-align:center;
+}
+input[type=submit]{
+	background-color:green;
+	border-radius:4px;
+	padding:12px 20px;
+	border:none;
+	float:right;
+}
+input[type=search]{
+	background-color:green;
+	border-radius:4px;
+	padding:12px 20px;
+	border:none;
+	float:right;
+}
+
+
+
+
+
+.footer {
+    padding: 15px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 50px;
+	bottom:10px;
+}
+
